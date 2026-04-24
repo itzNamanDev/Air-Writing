@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+logs/*.csv
+captures/*.jpg
+assets/*.caffemodel
+assets/*.prototxt
+assets/*.keras
